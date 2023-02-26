@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # TODO: add arguments to script
-# datacenters:
+# datacenters (as of 02/2023):
 #ID   NAME        DESCRIPTION          LOCATION
 #2    nbg1-dc3    Nuremberg 1 DC 3     nbg1
 #3    hel1-dc2    Helsinki 1 DC 2      hel1
